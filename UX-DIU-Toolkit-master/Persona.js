@@ -1,8 +1,8 @@
 /*******************************************/
 /*             PERSONA.JS                  */
 /*     Datos para PERSONA TEMPLATE         */   
-/*          [DIU] UX Toolkit               */                        
-/*          ver 1.0, 2019                  */
+/*          [DIU] UX Toolkit v1.0 2019     */                        
+/*          ver 1.1 26/Feb/2020            */
 /*******************************************/
     
 /****  README:       */
