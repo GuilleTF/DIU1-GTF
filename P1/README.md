@@ -20,3 +20,6 @@ Yuko Himura: Representa una persona muy quisquillosa la cual busca una cosa muy 
 ![](./img/JourneyMap_Eduardo.png)
 
 ![](./img/JourneyMap_Yuko.png)
+
+- Usability Review
+(Completar)
