@@ -23,6 +23,6 @@ Yuko Himura: Representa una persona muy quisquillosa la cual busca una cosa muy 
 
 - Usability Review
 >>>Comprobando el funcionamiento y la usabilidad de Inspirock, sus virtudes y defectos, etc. He elaborado un documento de revisión de usabilidad.
->>> - Enlace al documento: ![Usability Review]()
+>>> - Enlace al documento: ![Usability Review](Usability-review-GTF.pdf)
 >>> - Valoración final (numérica): 82
 >>> - Comentario sobre la valoración: La nota obtenida en la revisión de usabilidad es 82 puntos, lo que significa que es una página realmente buena, que solo le faltaría pulir algunos detalles para ser casi perfecta. Los puntos más positivos son por ejemplo la facilidad para organizarlo todo a la perfección, proporcionandote enlaces a otras páginas para reservar todo lo necesario. Mientras que otro mas punto negativo sería que no tiene un gran feedback y que la ayuda al cliente(email o teléfono) es un tanto mala.
