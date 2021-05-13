@@ -21,3 +21,9 @@ Las ideas que quiero implementar:
 - User/Task matrix
 
 ![](./img/UserTask_matrix.png)
+
+- Sitemap
+
+Una vez clasificadas las tareas principales se desarrolla el mapa web de la plataforma para su posterior implementación. En este punto, tuve en cuenta la busqueda de inspirock, con la idea de mejorar la experiencia de usuario a la hora de buscar. 
+
+![](./img/Sitemap.png)
