@@ -18,3 +18,6 @@ Las ideas que quiero implementar:
     -Implementación de bonos o promociones para los usuarios.
     -Una gran variedad de busquedas para que el usuario pueda filtrar los viajes a su gusto.
 
+- User/Task matrix
+
+![](./img/UserTask_matrix.png)
