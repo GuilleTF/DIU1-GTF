@@ -13,7 +13,6 @@ Descripción:
 >>> Una página web la cual sea capaz de organizar un viaje de la forma mas completa y a la vez sencilla para el usuario.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 >>> ![](img/LOGOTIPO.png)
 
 Miembros
