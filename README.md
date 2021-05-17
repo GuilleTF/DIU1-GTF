@@ -6,7 +6,7 @@ Grupo: DIU1_GTF.  Curso: 2020/21
 Updated: 8/2/2021
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Travelling
 
 Descripción: 
 
